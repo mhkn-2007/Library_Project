@@ -1,0 +1,30 @@
+[
+    {
+        "username": "mk2207",
+        "password": "1234",
+        "full_name": "Mohammadhasan Kamali",
+        "role": "admin",
+        "is_active": true
+    },
+    {
+        "username": "mjv",
+        "password": "12345",
+        "full_name": "Mohammadjavad Vahedati",
+        "role": "member",
+        "is_active": true
+    },
+    {
+        "username": "mh2207",
+        "password": "123",
+        "full_name": "Mohammad Hosein Shahsavand",
+        "role": "librarian",
+        "is_active": true
+    },
+    {
+        "username": "mj2207",
+        "password": "12",
+        "full_name": "Mohammad",
+        "role": "librarian",
+        "is_active": true
+    }
+]
